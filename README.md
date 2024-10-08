@@ -30,8 +30,8 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
--Thanks to Unsplash for providing the background images API.
--Special thanks to all contributors and users for their support.
+- Thanks to Unsplash for providing the background images API.
+- Special thanks to all contributors and users for their support.
 
 ## Contact
 Provide ways for users to get in touch with you:
