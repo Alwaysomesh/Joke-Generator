@@ -10,7 +10,7 @@ Welcome to the **Joke Generator**, a fun web application that provides random jo
 - Responsive Design: Works well on both desktop and mobile devices.
 
 ## API Used
-This project uses the Unsplash API to fetch background images. You can get your API key from this link.
+This project uses the Unsplash API to fetch background images.
 
 ## Usage
 1. Open the application in your browser.
