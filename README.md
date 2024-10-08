@@ -1,7 +1,7 @@
 ## Joke Generator 😂
 Welcome to the **Joke Generator**, a fun web application that provides random jokes to lighten up your day. This project uses the Unsplash API for fetching background images to enhance the user experience.
 
-Live Demo - Try it out here!
+[Live Demo - Try it out here!](https://alwaysomesh.github.io/Joke-Generator/)
 
 ## Features
 - Random Jokes: Get a new joke every time you click the button.
