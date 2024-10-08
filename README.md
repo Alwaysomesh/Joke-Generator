@@ -35,5 +35,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 Provide ways for users to get in touch with you:
--Email: singhsomesh.edu@gmail.com
--GitHub: alwaysomesh
+- Email: singhsomesh.edu@gmail.com
+- GitHub: alwaysomesh
